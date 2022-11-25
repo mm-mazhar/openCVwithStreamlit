@@ -1,4 +1,4 @@
-<h1>openCVwithStreamlit<h2>
+<h1>openCVwithStreamlit</h2>
 <hr>
 
 This is small image utility tool which resize images, record video from local webcam, write text on images/video files/live feed, Take Pictures From Camera, Blending Images of same/different sizes etc.
