@@ -1,5 +1,5 @@
-<h1>openCVwithStreamlit</h2>
-<hr>
+<h3>openCVwithStreamlit</h3>
+
 
 This is small image utility tool which resize images, record video from local webcam, write text on images/video files/live feed, Take Pictures From Camera, Blending Images of same/different sizes etc.
 - Note: Dockerized version doesn't support live feed
