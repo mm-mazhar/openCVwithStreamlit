@@ -1,4 +1,4 @@
-<h2>Image Utility: OpenCV with Streamlite</h2>
+<h2>Image Utility: OpenCV with Streamlit</h2>
 
 
 This is small image utility tool which resize images, record video from local webcam, write text on images/video files/live feed, Take Pictures From Camera, Blending Images of same/different sizes etc.
